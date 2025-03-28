@@ -15,4 +15,4 @@
 - 3D 아바타나 애니메이션을 활용하면 좋을 것 같으나 현재 지식의 한계와 시간적 한계로 아직은 목표단계
 
 🎥 **발표 영상 보러가기** ⬇️  
-https://youtu.be/8QuSFgxh-No
+ https://youtu.be/8QuSFgxh-No
