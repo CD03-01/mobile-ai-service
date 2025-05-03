@@ -16,4 +16,4 @@
 사용자 친화적 UI/UX: 직관적인 인터페이스로 모든 사용자가 쉽게 접근 가능.  
 
 🎥 **발표 영상 보러가기** ⬇️  
-[발표영상](https://www.youtube.com/watch?v=jPpd5OYzP-Q)
+[발표영상](https://www.youtube.com/watch?v=7SPE0kdX9PE)

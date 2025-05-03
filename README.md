@@ -29,7 +29,7 @@
 | 3주차 | 브레인스토밍 결과 작성 | [유튜브 링크](https://youtu.be/8QuSFgxh-No) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/4) |
 | 4주차 | 문제정의서 작성 | [유튜브 링크](https://www.youtube.com/watch?v=qooUvmYUQIk) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/6) |
 | 5-6주차 | 유스케이스 명세서 작성 | [유튜브 링크](https://www.youtube.com/watch?v=jPpd5OYzP-Q) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/7) |
-| 7-8주차 | 시퀀스 다이어그램 작성 | [유튜브 링크] | [PR 링크] |
+| 7-8주차 | 시퀀스 다이어그램 작성 | [유튜브 링크](https://www.youtube.com/watch?v=7SPE0kdX9PE) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/8) |
 | 9-10주차 | 테스트 계획서 작성 | [유튜브 링크] | [PR 링크] |
 | 11-12주차 | 테스트케이스 설계서 작성 | [유튜브 링크] | [PR 링크] |
 | 13-14주차 | 테스트 결과 보고서 작성 | [유튜브 링크] | [PR 링크] |
