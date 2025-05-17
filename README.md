@@ -1,4 +1,4 @@
-# 🚀 드라이브 스루를 위한 온디바이스 수어 인식 기반 주문 앱 개발
+# 🚀 드라이브 스루를 위한 온디바이스 수어 인식 앱 개발
 
 ## 🧑‍💻 멤버 소개
 
@@ -44,5 +44,5 @@
 | 4주차 | 문제정의서 작성 | [유튜브 링크](https://www.youtube.com/watch?v=qooUvmYUQIk) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/6) |
 | 5-6주차 | 유스케이스 명세서 작성 | [유튜브 링크](https://www.youtube.com/watch?v=jPpd5OYzP-Q) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/7) |
 | 7-8주차 | 시퀀스 다이어그램 작성 | [유튜브 링크](https://www.youtube.com/watch?v=7SPE0kdX9PE) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/8) |
-| 11주차 | 테스트 계획서 작성 | [유튜브 링크] | [PR 링크] |
+| 11주차 | 테스트 계획서 작성 | [유튜브 링크](https://www.youtube.com/watch?v=7APJIi2yUNo) | [PR 링크](https://github.com/CD03-01/mobile-ai-service/pull/9) |
 | 12-13주차 | 테스트 결과서 작성 + 최종 발표 | [유튜브 링크] | [PR 링크] |
