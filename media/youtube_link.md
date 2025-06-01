@@ -28,5 +28,5 @@
    - 향후 다양한 언어와 수어 단어로 확장 가능하도록 구조 설계
 
 🎥 **발표 영상 보러가기** ⬇️  
-[발표영상](https://www.youtube.com/watch?v=7APJIi2yUNo)
+[발표영상](https://www.youtube.com/watch?v=yn-kv_r6_tI)
 
